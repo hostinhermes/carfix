@@ -1,0 +1,12 @@
+* Adicionar as unidades de medida: litros, metros, peças
+* Remover a KM do carro e adicionar na OS
+* Adicionar filtro por placa no OS
+* Adicionar controle de pagamento parcial da OS 
+	* Mostrar as OS encerradas que ainda nao foram copletamente pagas
+	* Colocar valor recebido
+	* Colocar Valor pendente
+* Criar Tela de orçamento
+	* Prazo de validade do Orçamento
+	* Transformar em OS quando aprovada
+	
+	
